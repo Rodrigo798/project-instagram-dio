@@ -1,6 +1,6 @@
 # Projeto bem simples que eu fiz 😁
 
- Repositório do projeto proposto pela DIO para criar a interface do Instagram .
+ Repositório do projeto proposto pela Digital Innovation One para criar a interface do Instagram .
 
 ### Foi utilizado :
 
